@@ -8,6 +8,9 @@
 
 Horst is a personal AI assistant for Windows with a sci-fi interface and a Nordic Viking face that reacts to what you do. It runs on your own PC with a local language model (Ollama), so your documents, notes and conversations stay on your machine. You talk or type to it, and it answers, looks things up and gets things done.
 
+## A hobby project
+Horst is a spare-time project, built for fun. Ideas and suggestions are very welcome, just open an [issue](../../issues) or write me. And if you find a bug: you may keep it :) or, even better, tell me about it kindly and I will try to squash it.
+
 ## Try it
 Horst is **free**. There are two editions:
 - **Standard**: the easy start. Chat and voice, questions about your documents, weather, news, timers, notes, calendar and mail overview, web search with sources, reading the screen and more.
@@ -30,7 +33,7 @@ Horst is **free**. There are two editions:
 ![Settings](screenshot-settings.png)
 
 ## Online update
-In Horst open Settings > System > Online update via GitHub. The repository `PapaDerNerd/jarvis` is prefilled. Horst looks for a newer release once a day, downloads the package for your edition and installs it with a backup of the old version. Standard users can switch to Ultimate there with "Download Ultimate". The model recommendations (`modelle.json`) are fetched from this repository as validated data only.
+In Horst open Settings > System > Online update via GitHub. The repository `PapaDerNerd/horst` is prefilled. Horst looks for a newer release once a day, downloads the package for your edition and installs it with a backup of the old version. Standard users can switch to Ultimate there with "Download Ultimate". The model recommendations (`modelle.json`) are fetched from this repository as validated data only.
 
 ## Support
 Horst is free and developed in spare time. If you like him, you can buy the developer a coffee (or a bigger helmet): [paypal.me/papadernerd](https://paypal.me/papadernerd). Voluntary, nothing is locked or unlocked by it.
@@ -47,6 +50,9 @@ Horst runs locally. Nothing is sent to the cloud unless you switch on a cloud mo
 *(Früher „Jarvis“. Warum Horst? Jarvis klingt nach Butler für einen Milliardär im Eisenanzug. Dieser Assistent wohnt auf einem ganz normalen PC im Norden Deutschlands. Jeder kennt einen Horst: zuverlässig, ein bisschen brummig, nie in Eile, und am Ende ist es trotzdem erledigt. Er trägt einen Wikingerhelm und sagt „Moin“.)*
 
 Horst ist ein persönlicher KI-Assistent für Windows mit Sci-Fi-Oberfläche und einem nordischen Wikingergesicht, das auf dein Tun reagiert. Er läuft auf deinem eigenen PC mit einem lokalen Sprachmodell (Ollama), deine Dokumente, Notizen und Gespräche bleiben also auf deinem Rechner. Du sprichst oder schreibst mit ihm, und er antwortet, schlägt nach und erledigt Dinge.
+
+## Ein Freizeitprojekt
+Horst ist ein Freizeitprojekt, aus Spaß an der Sache entstanden. Ideen und Anregungen sind herzlich willkommen, öffne einfach ein [Issue](../../issues) oder schreib mir. Und wenn du einen Bug findest: Du darfst ihn behalten :) oder, noch besser, mir freundlich Bescheid geben, dann versuche ich, ihn zu erledigen.
 
 ## Ausprobieren
 Horst ist **kostenlos**. Es gibt zwei Editionen:
@@ -68,7 +74,7 @@ Horst ist **kostenlos**. Es gibt zwei Editionen:
 - Auf Deutsch und Englisch. Hilfe, Einrichtungsassistent, Hardware-Check und eine Liste mit Modellempfehlungen sind eingebaut.
 
 ## Online-Update
-In Horst: Einstellungen > System > Online-Update über GitHub. Das Repository `PapaDerNerd/jarvis` ist vorausgefüllt. Horst sucht einmal täglich nach einer neueren Version, lädt das Paket für deine Edition herunter und installiert es mit Sicherung der alten Version. Wer Standard nutzt, kann dort mit „Ultimate herunterladen“ wechseln. Die Modellempfehlungen (`modelle.json`) kommen aus diesem Repository, nur als geprüfte Daten.
+In Horst: Einstellungen > System > Online-Update über GitHub. Das Repository `PapaDerNerd/horst` ist vorausgefüllt. Horst sucht einmal täglich nach einer neueren Version, lädt das Paket für deine Edition herunter und installiert es mit Sicherung der alten Version. Wer Standard nutzt, kann dort mit „Ultimate herunterladen“ wechseln. Die Modellempfehlungen (`modelle.json`) kommen aus diesem Repository, nur als geprüfte Daten.
 
 ## Unterstützen
 Horst ist kostenlos und entsteht in der Freizeit. Wenn er dir gefällt, spendier dem Entwickler einen Kaffee (oder einen größeren Helm): [paypal.me/papadernerd](https://paypal.me/papadernerd). Freiwillig, nichts wird dadurch gesperrt oder freigeschaltet.
