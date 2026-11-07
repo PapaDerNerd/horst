@@ -4,9 +4,21 @@
 
 ![Horst main screen](screenshot-chat.png)
 
-*(Formerly "Jarvis". Why Horst? Jarvis sounds like a butler for a billionaire in an iron suit. This assistant lives on an ordinary PC in the north of Germany. Everybody knows a Horst: reliable, a bit grumpy, never in a hurry, and he gets it done anyway. He wears a Viking helmet and says "Moin".)*
-
 Horst is a personal AI assistant for Windows with a sci-fi interface and a Nordic Viking face that reacts to what you do. It runs on your own PC with a local language model (Ollama), so your documents, notes and conversations stay on your machine. You talk or type to it, and it answers, looks things up and gets things done.
+
+## Why Horst? Honestly: no good reason.
+Formerly this project was called "Jarvis", like about a thousand other assistants. There are good ones out there, for example [isair/jarvis](https://github.com/isair/jarvis) (voice first, macOS/Windows/Linux, memory, MCP, dictation in any app) or [llm-guy/jarvis](https://github.com/llm-guy/jarvis) (a compact wake-word demo with Ollama). Horst does not do anything better than them. Maybe a bit differently:
+
+- **Windows first, easy to install:** unzip, run the installer, done. No terminal needed.
+- **Your own documents** (PDF, Word, Excel, scans) with the source named in the answer.
+- **Everyday stuff in one screen:** weather, news, timers, notes, calendar and mail overview.
+- **Ultimate:** edit Excel and Word files, images, optional cloud models.
+- **German and English** from the start.
+- **A face** that follows your mouse, looks along while you type and grins when you say "thanks".
+
+What Horst does not have (yet): macOS and Linux, MCP, LM Studio. We are tinkering on the **ultimate Horst** and see what is possible, with Northern German composure: "Muss ja. Läuft."
+
+*(Why the name? Jarvis sounds like a butler for a billionaire in an iron suit. This assistant lives on an ordinary PC in the north of Germany. Everybody knows a Horst: reliable, a bit grumpy, never in a hurry, and he gets it done anyway. He wears a Viking helmet and says "Moin".)*
 
 ## A hobby project
 Horst is a spare-time project, built for fun. Ideas and suggestions are very welcome, just open an [issue](../../issues) or write me. And if you find a bug: you may keep it :) or, even better, tell me about it kindly and I will try to squash it.
@@ -47,9 +59,21 @@ Horst runs locally. Nothing is sent to the cloud unless you switch on a cloud mo
 
 ![Horst Hauptbildschirm](screenshot-start.png)
 
-*(Früher „Jarvis“. Warum Horst? Jarvis klingt nach Butler für einen Milliardär im Eisenanzug. Dieser Assistent wohnt auf einem ganz normalen PC im Norden Deutschlands. Jeder kennt einen Horst: zuverlässig, ein bisschen brummig, nie in Eile, und am Ende ist es trotzdem erledigt. Er trägt einen Wikingerhelm und sagt „Moin“.)*
-
 Horst ist ein persönlicher KI-Assistent für Windows mit Sci-Fi-Oberfläche und einem nordischen Wikingergesicht, das auf dein Tun reagiert. Er läuft auf deinem eigenen PC mit einem lokalen Sprachmodell (Ollama), deine Dokumente, Notizen und Gespräche bleiben also auf deinem Rechner. Du sprichst oder schreibst mit ihm, und er antwortet, schlägt nach und erledigt Dinge.
+
+## Warum Horst? Eigentlich gar nicht.
+Früher hieß das Projekt „Jarvis“, wie etwa tausend andere Assistenten auch. Es gibt gute da draußen, zum Beispiel [isair/jarvis](https://github.com/isair/jarvis) (Sprache zuerst, macOS/Windows/Linux, Gedächtnis, MCP, Diktat in jeder App) oder [llm-guy/jarvis](https://github.com/llm-guy/jarvis) (eine kompakte Weckwort-Demo mit Ollama). Horst macht nichts besser als die. Vielleicht ein bisschen anders:
+
+- **Windows zuerst, einfach zu installieren:** entpacken, Installer starten, fertig. Kein Terminal nötig.
+- **Deine eigenen Dokumente** (PDF, Word, Excel, Scans), mit Quelle in der Antwort.
+- **Alltagskram auf einem Bildschirm:** Wetter, Nachrichten, Timer, Notizen, Kalender- und Mailübersicht.
+- **Ultimate:** Excel- und Word-Dateien ändern, Bilder, optionale Cloud-Modelle.
+- **Deutsch und Englisch** von Anfang an.
+- **Ein Gesicht**, das der Maus folgt, beim Tippen mitschaut und grinst, wenn du „danke“ sagst.
+
+Was Horst (noch) nicht kann: macOS und Linux, MCP, LM Studio. Wir basteln am **ultimativen Horst** und schauen, was möglich ist, mit norddeutscher Gelassenheit: „Muss ja. Läuft.“
+
+*(Und der Name? Jarvis klingt nach Butler für einen Milliardär im Eisenanzug. Dieser Assistent wohnt auf einem ganz normalen PC im Norden Deutschlands. Jeder kennt einen Horst: zuverlässig, ein bisschen brummig, nie in Eile, und am Ende ist es trotzdem erledigt. Er trägt einen Wikingerhelm und sagt „Moin“.)*
 
 ## Ein Freizeitprojekt
 Horst ist ein Freizeitprojekt, aus Spaß an der Sache entstanden. Ideen und Anregungen sind herzlich willkommen, öffne einfach ein [Issue](../../issues) oder schreib mir. Und wenn du einen Bug findest: Du darfst ihn behalten :) oder, noch besser, mir freundlich Bescheid geben, dann versuche ich, ihn zu erledigen.
