@@ -32,6 +32,8 @@ Horst is **free**. There are two editions:
 2. Unzip it and run `INSTALLIEREN.bat` (the guide in the package explains the rest).
 3. Install [Ollama](https://ollama.com) if you do not have it yet; the setup wizard helps you pick a model. Prefer a window to pick models in? Use [LM Studio](https://lmstudio.ai) instead: in Horst, Settings, "Local engine", and the button "Start LM Studio" does the rest.
 
+To remove Horst again, run `DEINSTALLIEREN.bat` in the Horst folder. It asks whether your data should stay and whether Ollama, LM Studio, Tesseract and Python should be removed too.
+
 ## What Horst can do
 - **Chat and voice:** speak or type, answers can be read aloud (local Piper voice or browser voices).
 - **Your documents:** ask questions about your own files (PDF, Word, Excel, text, scans with OCR) and get answers with the source.
@@ -40,6 +42,7 @@ Horst is **free**. There are two editions:
 - **LM Studio supported:** besides Ollama, LM Studio can compute the answers too (all local).
 - **Morning briefing and long-term memory** (Horst remembers facts when you allow it).
 - **Read the screen** on request (OCR).
+- **Your own layout:** the "Layout" button lets you resize columns and windows, or switch to "Free" and place every window and the chat wherever you like (snaps to a grid, saved automatically).
 - **A face with moods:** the Viking follows your mouse, looks along while you type and reacts to listening, thinking, speaking and warnings. Say "thanks" and he grins. Now and then he winks.
 - Available in German and English. Help, setup wizard, hardware check and a model recommendation list are built in.
 
@@ -88,6 +91,8 @@ Horst ist **kostenlos**. Es gibt zwei Editionen:
 2. Entpacke die ZIP-Datei und starte `INSTALLIEREN.bat` (die Anleitung im Paket erklärt den Rest).
 3. Installiere [Ollama](https://ollama.com), falls noch nicht vorhanden; der Einrichtungsassistent hilft bei der Modellwahl. Lieber ein Programm mit Fenster zur Modellauswahl? Dann nimm [LM Studio](https://lmstudio.ai): in Horst unter Einstellungen „Lokale Engine“, der Knopf „LM Studio starten“ erledigt den Rest.
 
+Zum Entfernen startest du `DEINSTALLIEREN.bat` im Horst-Ordner. Sie fragt, ob deine Daten bleiben sollen und ob auch Ollama, LM Studio, Tesseract und Python entfernt werden.
+
 ## Was Horst kann
 - **Chat und Sprache:** sprechen oder schreiben, Antworten auf Wunsch vorgelesen (lokale Piper-Stimme oder Browser-Stimmen).
 - **Deine Dokumente:** Fragen zu eigenen Dateien (PDF, Word, Excel, Text, Scans mit OCR), Antworten mit Quelle.
@@ -96,6 +101,7 @@ Horst ist **kostenlos**. Es gibt zwei Editionen:
 - **LM Studio unterstützt:** neben Ollama kann auch LM Studio die Antworten berechnen (alles lokal).
 - **Morgenbericht und Langzeitgedächtnis** (Horst merkt sich Fakten, wenn du es erlaubst).
 - **Bildschirm lesen** auf Wunsch (OCR).
+- **Eigenes Layout:** Mit dem Knopf „Layout“ änderst du Spaltenbreite und Fensterhöhe oder schaltest auf „Frei“ und platzierst jedes Fenster und den Chat, wo du willst (rastet am Raster ein, wird automatisch gespeichert).
 - **Ein Gesicht mit Launen:** Der Wikinger folgt deiner Maus, schaut beim Tippen mit und reagiert auf Zuhören, Denken, Sprechen und Warnungen. Sag „danke“, und er grinst. Ab und zu zwinkert er.
 - Auf Deutsch und Englisch. Hilfe, Einrichtungsassistent, Hardware-Check und eine Liste mit Modellempfehlungen sind eingebaut.
 
