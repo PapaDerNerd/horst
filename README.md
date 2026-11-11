@@ -12,11 +12,11 @@ Formerly this project was called "Jarvis", like about a thousand other assistant
 - **Windows first, easy to install:** unzip, run the installer, done. No terminal needed.
 - **Your own documents** (PDF, Word, Excel, scans) with the source named in the answer.
 - **Everyday stuff in one screen:** weather, news, timers, notes, calendar and mail overview.
-- **Ultimate:** edit Excel and Word files, images, optional cloud models, and a browser Horst operates himself.
+- **Ultimate:** edit Excel and Word files, images, optional cloud models, a browser Horst operates himself, and plugins (MCP).
 - **German and English** from the start.
 - **A face** that follows your mouse, looks along while you type and grins when you say "thanks".
 
-What Horst does not have (yet): macOS and Linux, MCP, controlling other programs. We are tinkering on the **ultimate Horst** and see what is possible, with Northern German composure: "Muss ja. Läuft."
+What Horst does not have (yet): macOS and Linux, controlling other programs. We are tinkering on the **ultimate Horst** and see what is possible, with Northern German composure: "Muss ja. Läuft."
 
 *(Why the name? Jarvis sounds like a butler for a billionaire in an iron suit. This assistant lives on an ordinary PC in the north of Germany. Everybody knows a Horst: reliable, a bit grumpy, never in a hurry, and he gets it done anyway. He wears a Viking helmet and says "Moin".)*
 
@@ -48,6 +48,7 @@ To remove Horst again, run `DEINSTALLIEREN.bat` in the Horst folder. It asks whe
 - **Sort files:** "Sort my downloads folder" or "Tidy up my desktop": Horst shows a preview, moves files into subfolders by type or month only after your "ok", never deletes anything and can undo every run.
 - **E-mail: reply, send, tidy up:** "Do I have new mail?" shows a numbered list with sender and subject. Then "Reply to mail 2 that …", "Write a mail to …", "Delete all mails from …" (into the trash, never permanently), "Move mail 3 to Invoices" or "Sort my inbox" (invoices, orders, social networks, newsletters). Horst always shows a preview first, acts only after your "ok" and can undo it (web.de, GMX, Gmail with app password, own domains; no Microsoft accounts).
 - **Browser control (Ultimate):** "Go to idealo.de and find the cheapest price for …" or "Open wikipedia.org and search for …": Horst opens pages in his own browser (Edge/Chrome with a separate profile, your logins stay separate), reads them, clicks and fills in forms. Steps with consequences (buy, submit, delete …) only after your "ok"; he never types passwords or payment data.
+- **Plugins (Ultimate):** connect Horst to other services via MCP (Model Context Protocol), for example the official GitHub server. Paste a ready-made `{"mcpServers": …}` block or use a template; tools that only read run directly, everything else only after your "ok". Tokens are stored encrypted.
 - **A face with moods:** the Viking follows your mouse, looks along while you type and reacts to listening, thinking, speaking and warnings. Say "thanks" and he grins. Now and then he winks.
 - Available in German and English. Help, setup wizard, hardware check and a model recommendation list are built in.
 
@@ -76,11 +77,11 @@ Früher hieß das Projekt „Jarvis“, wie etwa tausend andere Assistenten auch
 - **Windows zuerst, einfach zu installieren:** entpacken, Installer starten, fertig. Kein Terminal nötig.
 - **Deine eigenen Dokumente** (PDF, Word, Excel, Scans), mit Quelle in der Antwort.
 - **Alltagskram auf einem Bildschirm:** Wetter, Nachrichten, Timer, Notizen, Kalender- und Mailübersicht.
-- **Ultimate:** Excel- und Word-Dateien ändern, Bilder, optionale Cloud-Modelle und ein Browser, den Horst selbst bedient.
+- **Ultimate:** Excel- und Word-Dateien ändern, Bilder, optionale Cloud-Modelle, ein Browser, den Horst selbst bedient, und Plugins (MCP).
 - **Deutsch und Englisch** von Anfang an.
 - **Ein Gesicht**, das der Maus folgt, beim Tippen mitschaut und grinst, wenn du „danke“ sagst.
 
-Was Horst (noch) nicht kann: macOS und Linux, MCP, andere Programme bedienen. Wir basteln am **ultimativen Horst** und schauen, was möglich ist, mit norddeutscher Gelassenheit: „Muss ja. Läuft.“
+Was Horst (noch) nicht kann: macOS und Linux, andere Programme bedienen. Wir basteln am **ultimativen Horst** und schauen, was möglich ist, mit norddeutscher Gelassenheit: „Muss ja. Läuft.“
 
 *(Und der Name? Jarvis klingt nach Butler für einen Milliardär im Eisenanzug. Dieser Assistent wohnt auf einem ganz normalen PC im Norden Deutschlands. Jeder kennt einen Horst: zuverlässig, ein bisschen brummig, nie in Eile, und am Ende ist es trotzdem erledigt. Er trägt einen Wikingerhelm und sagt „Moin“.)*
 
@@ -112,6 +113,7 @@ Zum Entfernen startest du `DEINSTALLIEREN.bat` im Horst-Ordner. Sie fragt, ob de
 - **Dateien sortieren:** „Sortiere meinen Download-Ordner“ oder „Räum meinen Desktop auf“: Horst zeigt eine Vorschau, verschiebt erst nach deinem „ok“ in Unterordner nach Typ oder Monat, löscht nie etwas und kann jeden Lauf rückgängig machen.
 - **E-Mail: antworten, senden, aufräumen:** „Habe ich neue Mails?“ zeigt eine nummerierte Liste mit Absender und Betreff. Dann „Antworte auf Mail 2, dass …“, „Schreib eine Mail an …“, „Lösch alle Mails von …“ (in den Papierkorb, nie endgültig), „Verschieb Mail 3 in Rechnungen“ oder „Sortiere mein Postfach“ (Rechnungen, Bestellungen, soziale Netzwerke, Newsletter). Horst zeigt immer erst eine Vorschau, handelt erst nach deinem „ok“ und kann es rückgängig machen (web.de, GMX, Gmail mit App-Passwort, eigene Domains; keine Microsoft-Konten).
 - **Browser bedienen (Ultimate):** „Geh auf idealo.de und such den günstigsten Preis für …“ oder „Öffne wikipedia.de und such nach …“: Horst öffnet Seiten in seinem eigenen Browser (Edge/Chrome mit eigenem Profil, deine Logins bleiben getrennt), liest sie, klickt und füllt Formulare aus. Schritte mit Folgen (kaufen, absenden, löschen …) erst nach deinem „ok“; Passwörter und Zahlungsdaten tippt er nie ein.
+- **Plugins (Ultimate):** Horst per MCP (Model Context Protocol) mit anderen Diensten verbinden, zum Beispiel mit dem offiziellen GitHub-Server. Fertigen `{"mcpServers": …}`-Block einfügen oder Vorlage nehmen; Werkzeuge, die nur lesen, laufen direkt, alles andere erst nach deinem „ok“. Tokens werden verschlüsselt gespeichert.
 - **Ein Gesicht mit Launen:** Der Wikinger folgt deiner Maus, schaut beim Tippen mit und reagiert auf Zuhören, Denken, Sprechen und Warnungen. Sag „danke“, und er grinst. Ab und zu zwinkert er.
 - Auf Deutsch und Englisch. Hilfe, Einrichtungsassistent, Hardware-Check und eine Liste mit Modellempfehlungen sind eingebaut.
 
