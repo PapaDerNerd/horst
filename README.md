@@ -45,6 +45,8 @@ To remove Horst again, run `DEINSTALLIEREN.bat` in the Horst folder. It asks whe
 - **Your own layout:** the "Layout" button lets you resize columns and windows, or switch to "Free" and place every window and the chat wherever you like (snaps to a grid, saved automatically).
 - **Batch image editing (Ultimate):** upload several images at once and give one instruction for all: resize, crop, rotate, brightness, black and white or convert the format, done locally in seconds. Content edits with Gemini or restyling with ComfyUI work for the whole batch too. The originals stay unchanged.
 - **Self-test:** Settings > System > "Self-test" checks Ollama/LM Studio, the model, graphics memory, disk space, internet and documents, shows a traffic light with tips and offers buttons like "Start Ollama" or "Download model". "Copy report" is handy for bug reports.
+- **Sort files:** "Sort my downloads folder" or "Tidy up my desktop": Horst shows a preview, moves files into subfolders by type or month only after your "ok", never deletes anything and can undo every run.
+- **Reply to and send e-mail:** "Reply to mail 2 that we will come on Sunday" or "Write a mail to …". Horst shows the draft first and sends only after your "ok" (web.de, GMX, Gmail with app password, own domains; no Microsoft accounts).
 - **A face with moods:** the Viking follows your mouse, looks along while you type and reacts to listening, thinking, speaking and warnings. Say "thanks" and he grins. Now and then he winks.
 - Available in German and English. Help, setup wizard, hardware check and a model recommendation list are built in.
 
@@ -106,6 +108,8 @@ Zum Entfernen startest du `DEINSTALLIEREN.bat` im Horst-Ordner. Sie fragt, ob de
 - **Eigenes Layout:** Mit dem Knopf „Layout“ änderst du Spaltenbreite und Fensterhöhe oder schaltest auf „Frei“ und platzierst jedes Fenster und den Chat, wo du willst (rastet am Raster ein, wird automatisch gespeichert).
 - **Bilder im Stapel bearbeiten (Ultimate):** mehrere Bilder auf einmal hochladen und eine Anweisung für alle geben: verkleinern, zuschneiden, drehen, Helligkeit, schwarz-weiß oder Format umwandeln, lokal in Sekunden. Inhaltliche Änderungen mit Gemini oder Umgestalten mit ComfyUI gehen ebenfalls für den ganzen Stapel. Die Originale bleiben unverändert.
 - **Selbsttest:** Einstellungen > System > „Selbsttest“ prüft Ollama/LM Studio, das Modell, Grafikspeicher, Speicherplatz, Internet und Dokumente, zeigt eine Ampel mit Tipps und bietet Knöpfe wie „Ollama starten“ oder „Modell herunterladen“. „Bericht kopieren“ hilft bei Fehlermeldungen.
+- **Dateien sortieren:** „Sortiere meinen Download-Ordner“ oder „Räum meinen Desktop auf“: Horst zeigt eine Vorschau, verschiebt erst nach deinem „ok“ in Unterordner nach Typ oder Monat, löscht nie etwas und kann jeden Lauf rückgängig machen.
+- **E-Mails beantworten und senden:** „Antworte auf Mail 2, dass wir Sonntag kommen“ oder „Schreib eine Mail an …“. Horst zeigt erst den Entwurf und sendet nur nach deinem „ok“ (web.de, GMX, Gmail mit App-Passwort, eigene Domains; keine Microsoft-Konten).
 - **Ein Gesicht mit Launen:** Der Wikinger folgt deiner Maus, schaut beim Tippen mit und reagiert auf Zuhören, Denken, Sprechen und Warnungen. Sag „danke“, und er grinst. Ab und zu zwinkert er.
 - Auf Deutsch und Englisch. Hilfe, Einrichtungsassistent, Hardware-Check und eine Liste mit Modellempfehlungen sind eingebaut.
 
