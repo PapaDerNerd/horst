@@ -16,7 +16,7 @@ Formerly this project was called "Jarvis", like about a thousand other assistant
 - **German and English** from the start.
 - **A face** that follows your mouse, looks along while you type and grins when you say "thanks".
 
-What Horst does not have (yet): macOS and Linux, MCP. We are tinkering on the **ultimate Horst** and see what is possible, with Northern German composure: "Muss ja. Läuft."
+What Horst does not have (yet): macOS and Linux, MCP, controlling other programs. We are tinkering on the **ultimate Horst** and see what is possible, with Northern German composure: "Muss ja. Läuft."
 
 *(Why the name? Jarvis sounds like a butler for a billionaire in an iron suit. This assistant lives on an ordinary PC in the north of Germany. Everybody knows a Horst: reliable, a bit grumpy, never in a hurry, and he gets it done anyway. He wears a Viking helmet and says "Moin".)*
 
@@ -46,7 +46,7 @@ To remove Horst again, run `DEINSTALLIEREN.bat` in the Horst folder. It asks whe
 - **Batch image editing (Ultimate):** upload several images at once and give one instruction for all: resize, crop, rotate, brightness, black and white or convert the format, done locally in seconds. Content edits with Gemini or restyling with ComfyUI work for the whole batch too. The originals stay unchanged.
 - **Self-test:** Settings > System > "Self-test" checks Ollama/LM Studio, the model, graphics memory, disk space, internet and documents, shows a traffic light with tips and offers buttons like "Start Ollama" or "Download model". "Copy report" is handy for bug reports.
 - **Sort files:** "Sort my downloads folder" or "Tidy up my desktop": Horst shows a preview, moves files into subfolders by type or month only after your "ok", never deletes anything and can undo every run.
-- **Reply to and send e-mail:** "Reply to mail 2 that we will come on Sunday" or "Write a mail to …". Horst shows the draft first and sends only after your "ok" (web.de, GMX, Gmail with app password, own domains; no Microsoft accounts).
+- **E-mail: reply, send, tidy up:** "Do I have new mail?" shows a numbered list with sender and subject. Then "Reply to mail 2 that …", "Write a mail to …", "Delete all mails from …" (into the trash, never permanently), "Move mail 3 to Invoices" or "Sort my inbox" (invoices, orders, social networks, newsletters). Horst always shows a preview first, acts only after your "ok" and can undo it (web.de, GMX, Gmail with app password, own domains; no Microsoft accounts).
 - **A face with moods:** the Viking follows your mouse, looks along while you type and reacts to listening, thinking, speaking and warnings. Say "thanks" and he grins. Now and then he winks.
 - Available in German and English. Help, setup wizard, hardware check and a model recommendation list are built in.
 
@@ -79,7 +79,7 @@ Früher hieß das Projekt „Jarvis“, wie etwa tausend andere Assistenten auch
 - **Deutsch und Englisch** von Anfang an.
 - **Ein Gesicht**, das der Maus folgt, beim Tippen mitschaut und grinst, wenn du „danke“ sagst.
 
-Was Horst (noch) nicht kann: macOS und Linux, MCP. Wir basteln am **ultimativen Horst** und schauen, was möglich ist, mit norddeutscher Gelassenheit: „Muss ja. Läuft.“
+Was Horst (noch) nicht kann: macOS und Linux, MCP, andere Programme bedienen. Wir basteln am **ultimativen Horst** und schauen, was möglich ist, mit norddeutscher Gelassenheit: „Muss ja. Läuft.“
 
 *(Und der Name? Jarvis klingt nach Butler für einen Milliardär im Eisenanzug. Dieser Assistent wohnt auf einem ganz normalen PC im Norden Deutschlands. Jeder kennt einen Horst: zuverlässig, ein bisschen brummig, nie in Eile, und am Ende ist es trotzdem erledigt. Er trägt einen Wikingerhelm und sagt „Moin“.)*
 
@@ -109,7 +109,7 @@ Zum Entfernen startest du `DEINSTALLIEREN.bat` im Horst-Ordner. Sie fragt, ob de
 - **Bilder im Stapel bearbeiten (Ultimate):** mehrere Bilder auf einmal hochladen und eine Anweisung für alle geben: verkleinern, zuschneiden, drehen, Helligkeit, schwarz-weiß oder Format umwandeln, lokal in Sekunden. Inhaltliche Änderungen mit Gemini oder Umgestalten mit ComfyUI gehen ebenfalls für den ganzen Stapel. Die Originale bleiben unverändert.
 - **Selbsttest:** Einstellungen > System > „Selbsttest“ prüft Ollama/LM Studio, das Modell, Grafikspeicher, Speicherplatz, Internet und Dokumente, zeigt eine Ampel mit Tipps und bietet Knöpfe wie „Ollama starten“ oder „Modell herunterladen“. „Bericht kopieren“ hilft bei Fehlermeldungen.
 - **Dateien sortieren:** „Sortiere meinen Download-Ordner“ oder „Räum meinen Desktop auf“: Horst zeigt eine Vorschau, verschiebt erst nach deinem „ok“ in Unterordner nach Typ oder Monat, löscht nie etwas und kann jeden Lauf rückgängig machen.
-- **E-Mails beantworten und senden:** „Antworte auf Mail 2, dass wir Sonntag kommen“ oder „Schreib eine Mail an …“. Horst zeigt erst den Entwurf und sendet nur nach deinem „ok“ (web.de, GMX, Gmail mit App-Passwort, eigene Domains; keine Microsoft-Konten).
+- **E-Mail: antworten, senden, aufräumen:** „Habe ich neue Mails?“ zeigt eine nummerierte Liste mit Absender und Betreff. Dann „Antworte auf Mail 2, dass …“, „Schreib eine Mail an …“, „Lösch alle Mails von …“ (in den Papierkorb, nie endgültig), „Verschieb Mail 3 in Rechnungen“ oder „Sortiere mein Postfach“ (Rechnungen, Bestellungen, soziale Netzwerke, Newsletter). Horst zeigt immer erst eine Vorschau, handelt erst nach deinem „ok“ und kann es rückgängig machen (web.de, GMX, Gmail mit App-Passwort, eigene Domains; keine Microsoft-Konten).
 - **Ein Gesicht mit Launen:** Der Wikinger folgt deiner Maus, schaut beim Tippen mit und reagiert auf Zuhören, Denken, Sprechen und Warnungen. Sag „danke“, und er grinst. Ab und zu zwinkert er.
 - Auf Deutsch und Englisch. Hilfe, Einrichtungsassistent, Hardware-Check und eine Liste mit Modellempfehlungen sind eingebaut.
 
